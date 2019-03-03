@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comidas do Mundo</string>
+    <string name="title_Text">Χώρες</string>
+    <string name="foodTextView">Ελληνική μπάρμπεκιου</string>
+    <string name="countryTextView">Ελλάδα</string>
+</resources>

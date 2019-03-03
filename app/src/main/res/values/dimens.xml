@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">25sp</dimen>
+    <dimen name="paddingTitle">15sp</dimen>
+    <dimen name="flagSize">250dp</dimen>
+    <dimen name="flagHeight">150dp</dimen>
+    <dimen name="flagPadding">0dp</dimen>
+</resources>

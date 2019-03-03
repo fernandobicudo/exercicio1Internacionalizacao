@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Welternährung</string>
+    <string name="countryTextView">Deutschland</string>
+    <string name="foodTextView">Sauerkraut</string>
+    <string name="title_Text">Länder</string>
+</resources>

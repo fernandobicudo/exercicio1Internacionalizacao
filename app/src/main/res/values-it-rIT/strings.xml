@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alimenti del mondo</string>
+    <string name="countryTextView">Italia</string>
+    <string name="foodTextView">Pizza</string>
+    <string name="title_Text">Paesi</string>
+</resources>

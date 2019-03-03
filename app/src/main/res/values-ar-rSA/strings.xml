@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أغذية العالم</string>
+    <string name="title_Text">الدول</string>
+    <string name="countryTextView">المملكة العربية السعودية</string>
+    <string name="foodTextView">صفيحة</string>
+</resources>
